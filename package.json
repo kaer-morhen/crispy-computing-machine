@@ -1,5 +1,5 @@
 {
-  "name": "@kaer-morhen/crispy-computing-machine",
+  "name": "crispy-computing-machine",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
