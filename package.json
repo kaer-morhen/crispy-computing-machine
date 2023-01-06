@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kaer-morhen/crispy-computing-machine#readme",
   "dependencies": {
+    "@kaer-morhen/refactored-tribble": "^1.0.3",
     "winston": "^3.8.2"
   }
 }
