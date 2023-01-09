@@ -1,1 +1,1 @@
-<a href="https://github.com/kaer-morhen/turbo-octo-couscous" target="_blank">turbo-octo-couscous</a>: 1.0.3
+[turbo-octo-couscous](kaer-morhen/turbo-octo-couscous): 1.0.3  
