@@ -1,1 +1,1 @@
-[turbo-octo-couscous](https://kaer-morhen/turbo-octo-couscous): 1.0.3  
+[turbo-octo-couscous](https://github.com/kaer-morhen/turbo-octo-couscous): 1.0.3  
